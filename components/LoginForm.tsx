@@ -89,7 +89,7 @@ const LoginForm = () => {
           </form>
 
           <div className="mt-6 text-center text-sm text-gray-600">
-            <p>Test credentials: username = "tanya", password = "1234"</p>
+            <p>Test credentials: username = &quot;tanya&quot;, password = &quot;1234&quot;</p>
             <p className="mt-1 text-xs text-gray-500">(Frontend-only authentication)</p>
           </div>
         </div>
